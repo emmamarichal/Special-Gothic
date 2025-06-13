@@ -1,10 +1,18 @@
 sources:
+<<<<<<< HEAD
   - SpecialGothic.glyphs
+=======
+  - Special-Gothic.glyphs
+>>>>>>> a7f8b26167e7dc3f898fba4f3e8b137a1c0c1c9f
 axisOrder:
   - wdth
   - wght
 familyName: Special Gothic
 cleanUp: true
+<<<<<<< HEAD
+=======
+#buildStatic: false
+>>>>>>> a7f8b26167e7dc3f898fba4f3e8b137a1c0c1c9f
 stat:
   SpecialGothic[wdth,wght].ttf:
   - name: Width
@@ -12,6 +20,7 @@ stat:
     values:
     - name: Condensed
       value: 75
+<<<<<<< HEAD
     - name: SemiCondensed
       value: 87.5
     - name: Normal
@@ -19,6 +28,11 @@ stat:
       flags: 2
     - name: SemiExpanded
       value: 112.5
+=======
+    - name: Normal
+      value: 100
+      flags: 2
+>>>>>>> a7f8b26167e7dc3f898fba4f3e8b137a1c0c1c9f
     - name: Expanded
       value: 125
   - name: Weight
