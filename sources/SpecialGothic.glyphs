@@ -892,6 +892,12 @@ sub gcircumflex by gcircumflex.ss01;
 sub gcommaaccent by gcommaaccent.ss01;
 sub gdotaccent by gdotaccent.ss01;
 ";
+labels = (
+{
+language = dflt;
+value = ss01;
+}
+);
 tag = ss01;
 }
 );
